@@ -1,0 +1,26 @@
+/*--CONTEXT MENU STYLES--*/
+.ContextMenu {
+    position:absolute;
+    background: rgb(55,55,55);
+    padding: 2px 2px 1px 2px;
+    display:none;
+    z-index: 1000;
+    box-shadow:2px 2px 2px #444;
+}
+.ContextMenu hr { border-top: 3px double #666; }
+.ContextMenu a {
+    font-size:1em;
+    font-weight:600;
+    display: block;
+    padding: 6px;
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-color: #eee !important;
+    color: #000000;
+    text-decoration: none;
+    margin-bottom: 1px;
+}
+.ContextMenu a:hover {
+    background-color: #DCEEB9 !important;
+    color: #000000;
+}
