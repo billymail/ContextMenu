@@ -6,3 +6,5 @@ slightly based on Simple Context Menu from http://www.webtoolkit.info]http://www
 Created By Pieter-Jan Piro - http://www.piro.ws
 
 Edited to add simple touch handling
+
+(Requires MooTools with Compatibility at present due to bind events)
