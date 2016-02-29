@@ -7,4 +7,4 @@ Created By Pieter-Jan Piro - http://www.piro.ws
 
 Edited to add simple touch handling
 
-(Requires MooTools with Compatibility at present due to bind events)
+No longer requires MooTools with Compatibility
